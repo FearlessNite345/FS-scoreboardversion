@@ -1,3 +1,6 @@
+# Changelog v1.1.1
+- Added debug config toggle.
+
 # Changelog v1.1.0
 - Major UI refresh with four themes (Nebula, Ledger, Pulse, Terminal) and updated typography
 - Added standalone, SonoranCAD, framework, and hybrid data source modes.
