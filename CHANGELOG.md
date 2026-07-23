@@ -1,3 +1,11 @@
+# Changelog v1.1.2
+- Updated SonoranCAD player matching for Linking V2 using `communityUserId`.
+- Preserved legacy SonoranCAD API ID and server ID matching as fallbacks.
+- Added support for SonoranCAD's newer `isDispatch` unit flag.
+- Fixed players without role data falling through without a Civilian role.
+- Hidden role and status columns when the current player data does not use them.
+- Removed the legacy `+fs_scoreboard` and `-fs_scoreboard` keybind commands.
+
 # Changelog v1.1.1
 - Added debug config toggle.
 
