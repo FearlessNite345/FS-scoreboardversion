@@ -1,3 +1,7 @@
+# Changelog v1.1.3
+- Added NAT2K15 framework job/department support with a configurable framework resource name.
+- NAT2K15 support has not been tested against a live NAT2K15 installation and is based on its published documentation. Please report any integration issues.
+
 # Changelog v1.1.2
 - Updated SonoranCAD player matching for Linking V2 using `communityUserId`.
 - Preserved legacy SonoranCAD API ID and server ID matching as fallbacks.
