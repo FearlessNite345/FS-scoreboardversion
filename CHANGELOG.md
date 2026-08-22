@@ -1,3 +1,11 @@
+# Changelog v1.2.0
+- Added roster search, quick filters, optional department grouping, and clearer live player updates.
+- Added smoother UI animations, connection details, streamer mode, and three new themes: Aurora, Ember, and Noir.
+- Added early LUX CAD support alongside the existing standalone, framework, SonoranCAD, and hybrid modes. LUX CAD has not yet been fully live-tested.
+- Reworked custom jobs into civilian services with optional global and per-service permissions while keeping `/setjob` simple.
+- Added a Discord status webhook that maintains one live message and reports the server offline during a normal shutdown/restart.
+- Added a server extension API for custom player badges, metadata, search terms, and role or status overrides.
+
 # Changelog v1.1.3
 - Added NAT2K15 framework job/department support with a configurable framework resource name.
 - NAT2K15 support has not been tested against a live NAT2K15 installation and is based on its published documentation. Please report any integration issues.
