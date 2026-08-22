@@ -1,3 +1,7 @@
+# Changelog v1.2.1
+- Fixed LUX hybrid dispatch totals counting the same dispatcher once from the connected roster and again from CAD.
+- Added automatic LUX CAD civilian-service detection through the `/civilian-services` API.
+
 # Changelog v1.2.0
 - Added roster search, quick filters, optional department grouping, and clearer live player updates.
 - Added smoother UI animations, connection details, streamer mode, and three new themes: Aurora, Ember, and Noir.
