@@ -1,3 +1,13 @@
+# Changelog v1.3.0
+- Expanded personalization with four layouts, 20 color themes, eight typography styles, custom palettes, and separate full/Mini HUD UI scaling.
+- Added live edit modes for positioning and sizing the full scoreboard and Mini HUD, plus safe-zone, density, opacity, and font controls.
+- Upgraded the always-on Mini HUD with configurable totals, nine position presets, mini-first key behavior, and auto-hide rules for pause menus, driving, aiming, combat, and inactivity.
+- Added saved layout profiles, per-layout memory, preference import/export, Settings search, and session undo/redo.
+- Added virtualized rosters, responsive card layouts, improved player departure animations, and smoother full/Mini transitions.
+- Added high-contrast and reduced-motion options, complete keyboard/controller navigation, and a guided first-launch setup.
+- Added JSON localization with English, Spanish, and French, plus server locks for required columns and HUD totals.
+- Improved LUX Dispatch matching and caching, Discord webhook rate-limit handling, and FiveM CEF/UI compatibility.
+
 # Changelog v1.2.1
 - Fixed LUX hybrid dispatch totals counting the same dispatcher once from the connected roster and again from CAD.
 - Added automatic LUX CAD civilian-service detection through the `/civilian-services` API.
